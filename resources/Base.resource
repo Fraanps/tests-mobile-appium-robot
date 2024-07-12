@@ -7,8 +7,9 @@ Library     libs/Database.py
 Resource    actions/Account.resource
 Resource    actions/Login.resource
 Resource    actions/Mybody.resource
-Resource    actions/Menu.resource
-Resource    actions/Popup.resource
+Resource    actions/components/Menu.resource
+Resource    actions/components/Popup.resource
+Resource    services/Service.resource
 
 
 

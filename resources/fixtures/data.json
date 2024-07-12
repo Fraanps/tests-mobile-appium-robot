@@ -20,5 +20,30 @@
       "cvv": "231"
     }
 
+  },
+
+  "update_medidas": {
+    "account":{
+      "name": "Ana Loise",
+      "email":"aloise@email.com",
+      "cpf": "26593011070",
+      "weight": 60,
+      "height": 160
+    },
+
+    "plan": {
+      "name": "Plano Black",
+      "id": 2,
+      "price": 79.99
+    },
+
+    "credit_card": {
+      "number": "4242424242424242",
+      "holder": "Ana Loise",
+      "month": "06",
+      "year": "2028",
+      "cvv": "231"
+    }
+
   }
 }
